@@ -1,8 +1,6 @@
 # miniProjetISGS
 ## Programmation orientée objet 2017-2018 Institut Supérieur de gestion de Sousse (ISGS)
-## Mini Projet POO
-## Gestion des deals
-## 2ème LFIG - LAIG
+### Mini Projet POO - Gestion des deals - 2ème LFIG - LAIG
 
 ### Sujet
 
@@ -14,17 +12,17 @@ Un client pour qu’il puisse bénéficier du deal doit impérativement exister 
 Il vous est demandé de réaliser une application orienté objet en JAVA permettant de gérer les deals d’une agence.
 Votre application donnera la possibilité à l’utilisateur, à travers un menu, de réaliser les tâches suivantes :
 
- Créer un client, un deal et un fournisseur.
+- Créer un client, un deal et un fournisseur.
 
- Faire des ventes d’un deal existant à un client existant, puis afficher le Total à payer.
+- Faire des ventes d’un deal existant à un client existant, puis afficher le Total à payer.
 
- Afficher la liste des clients par deal.
+- Afficher la liste des clients par deal.
 
- Afficher la liste des deals d’un client par ordre chronologique.
+- Afficher la liste des deals d’un client par ordre chronologique.
 
- Rechercher un client par son CIN ou son numéro de téléphone.
+- Rechercher un client par son CIN ou son numéro de téléphone.
 
- Rechercher les deals en cours par catégorie.
+- Rechercher les deals en cours par catégorie.
 
 P.S : Vous pouvez rajouter des éléments selon vos besoins en programmation.
 
